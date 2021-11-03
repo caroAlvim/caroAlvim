@@ -9,7 +9,7 @@
 
 - I'm a IT student at [PUC-PR.](https://www.pucpr.br/)
 - I'm a front-end student at [< Laboratoria >](https://www.laboratoria.la/br).
-- I'm currently learning HTML, CSS, JavaScript, Node.js, ReactJS
+- I'm currently learning HTML, CSS, JavaScript, Node.js, ReactJS, Python
 
 </br>
 
