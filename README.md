@@ -3,7 +3,7 @@
 
 
 
-<img align="right" min-width="200px" max-width="250px" width="400px" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/source.gif">      
+<img align="right" min-width="200px" max-width="250px" width="400px" src="/img/AUstronaut.gif">      
 
 </br>
 
