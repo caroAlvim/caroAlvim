@@ -8,7 +8,7 @@
 
 - I'm a IT student at [PUC-PR.](https://www.pucpr.br/)
 - I'm a Front-end developer graduated from [< Laboratoria >](https://www.laboratoria.la/br).
-- I'm currently learning HTML, CSS, JavaScript, Node.js, ReactJS, Python
+- I'm currently learning JavaScript, Node.js, ReactJS, TypeScript and Python
 
 </br>
 
