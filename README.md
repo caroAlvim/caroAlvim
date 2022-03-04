@@ -12,7 +12,7 @@
 
 </br>
 
-## You can talk to me in:
+## You can speak with me using:
 
 * Portuguese 
 * English
