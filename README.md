@@ -1,8 +1,8 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">  Hi there! I'm Carolina!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="300px" height="40px">  Hi there! I'm Carolina!
 
 
 
-<img align="right" min-width="200px" max-width="250px" width="400px" src="/img/AUstronaut.gif">      
+<img align="right" min-width="200px" max-width="250px" width="400px" height="400px" src="/img/AUstronaut.gif">      
 
 </br>
 
