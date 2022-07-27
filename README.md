@@ -6,9 +6,9 @@
 
 </br>
 
-- I'm a IT student at [PUC-PR.](https://www.pucpr.br/)
+- I'm a software developer graduated from [PUC-PR.](https://www.pucpr.br/)
 - I'm a Front-end developer graduated from [< Laboratoria >](https://www.laboratoria.la/br).
-- I'm currently learning JavaScript, Node.js, ReactJS, TypeScript, tests and Docker.
+- I'm currently learning Node.js, ReactJS, TypeScript, tests and Docker.
 
 </br>
 
