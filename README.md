@@ -40,7 +40,7 @@
 
 ### Get in touch
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CaroAlvim)](https://twitter.com/CaroAlvim)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-alvim/)](https://www.linkedin.com/in/carolina-alvim/) 
 
 
@@ -49,6 +49,8 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=caro-alvim.caro-alvim)
 
 <!--
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CaroAlvim)](https://twitter.com/CaroAlvim)
+
 **caro-alvim/caro-alvim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 "https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/source.gif"> 
 
