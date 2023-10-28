@@ -30,10 +30,15 @@
   <img title="Javscript" align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img title="React" align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img title="Python" align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img title="Java" align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img title="NodeJS" align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img title="VScode" align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img title="Figma" align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img title="Java" align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img title="IntelliJ" align="center" alt="IntelliJ" height="30" width="100" src="https://img.shields.io/badge/intelliJ-000000?style=for-the-badge&logo=intelliJ%20idea&logoColor=%23000000&labelColor=f1f5f8">
+  <img title="Azure" align="center" alt="Microsoft Azure" height="30" width="100" src="https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure">
+  
+
+
+
 
 </div>
 
