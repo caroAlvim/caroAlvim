@@ -33,7 +33,6 @@
   <img title="NodeJS" align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img title="VScode" align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img title="Java" align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img title="Azure" align="center" alt="Microsoft Azure" height="30" width="100" src="https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure">
   
 
 
